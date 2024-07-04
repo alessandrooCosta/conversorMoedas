@@ -29,5 +29,5 @@ bin/
 .DS_Store
 
 .conversorMoedas
-.idea/workspace.xml
-.idea/tasks.xml
+/.idea/workspace.xml
+/.idea/tasks.xml
