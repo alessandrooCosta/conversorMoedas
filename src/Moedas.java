@@ -15,9 +15,9 @@ public class Moedas {
     @Override
     public String toString() {
         return "" +
-                "Codigo da moeda base: '" + base_cod + '\'' +
+                "Moeda Base: '" + base_cod + '\'' +
                 ", Codigo da moeda convertida: '" + target_code + '\'' +
                 ", Valor unitario da moeda: " + conversion_rate +
-                ", Valor convertido: " + conversion_result;
+                ", Valor total convertido: " + conversion_result;
     }
 }

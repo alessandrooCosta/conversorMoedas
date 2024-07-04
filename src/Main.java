@@ -25,7 +25,6 @@ public class Main {
         Gson gson = new Gson();
         Moeda moedaRecord = gson.fromJson(json, Moeda.class);
         Moedas moedas = new Moedas(moedaRecord);
-        System.out.println(moedaRecord);
         System.out.println(moedas);
     }
 }
