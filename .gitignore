@@ -28,6 +28,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.conversorMoedas
-/.idea/workspace.xml
-/.idea/tasks.xml
+.conversorMoedas.iml
+.idea/
